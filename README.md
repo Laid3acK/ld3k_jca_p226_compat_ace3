@@ -11,3 +11,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3328185289
 - Add M17 9x19mm +P Sig Sauer NATO 124gr JHP (Jacketed Hollow Point) according to Sig Sauer 2024 datas: 365m/s (1198fps) barrel length 4.0".
 - Add M1153 9x19mm Sig Sauer NATO 147gr JHP (Jacketed Hollow Point) according to Sig Sauer 2024 datas: 300m/s (985fps) barrel length 4.0".
 - Add "ACE_ScopeHeightAboveRail" from ACE3 "checkScopes.sqf".
+
+Bohemia Interactive forum's download links: https://forums.bohemia.net/forums/topic/289217-jca-p226-compat-ace3/
